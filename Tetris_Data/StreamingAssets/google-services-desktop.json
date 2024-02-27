@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695975152807",
+    "project_id": "unity-tetris",
+    "storage_bucket": "unity-tetris.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695975152807:android:70d4dc5113a72fb5679f82",
+        "android_client_info": {
+          "package_name": "com.UnityHanYang.Tetris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyKVKaCyv5qqfBjW_Djp3IQdkAdNExy8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
